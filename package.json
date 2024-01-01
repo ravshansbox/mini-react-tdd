@@ -1,0 +1,14 @@
+{
+  "name": "vite-react-js",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "vite",
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "happy-dom": "^13.1.0",
+    "vite": "^5.0.11",
+    "vitest": "^1.2.0"
+  }
+}
